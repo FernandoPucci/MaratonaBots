@@ -1,0 +1,27 @@
+{
+  "name": "maratonabots",
+  "version": "1.0.0",
+  "description": "Environment Code from Maratona Bots",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoPucci/MaratonaBots.git"
+  },
+  "keywords": [
+    "bot",
+    "nickolas"
+  ],
+  "author": "Fernando Pucci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FernandoPucci/MaratonaBots/issues"
+  },
+  "homepage": "https://github.com/FernandoPucci/MaratonaBots#readme",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "restify": "^6.3.4"
+  }
+}
