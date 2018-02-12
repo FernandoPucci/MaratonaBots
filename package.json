@@ -23,6 +23,9 @@
   "dependencies": {
     "botbuilder": "^3.14.0",
     "botbuilder-cognitiveservices": "^1.1.0",
-    "restify": "^6.3.4"
+    "g": "^2.0.1",
+    "nodemon": "^1.14.12",
+    "restify": "^6.3.4",
+    "s": "^0.1.1"
   }
 }
